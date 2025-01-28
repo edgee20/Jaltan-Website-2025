@@ -1,5 +1,5 @@
 {
-  "name": "my-next-app",
+  "name": "jaltan-website-2025",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -23,5 +23,20 @@
     "eslint": "^9",
     "eslint-config-next": "15.1.6",
     "@eslint/eslintrc": "^3"
-  }
+  },
+  "description": "Jaltan Website 2025",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgee20/Jaltan-Website-2025.git"
+  },
+  "keywords": [
+    "jaltan"
+  ],
+  "author": "^C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edgee20/Jaltan-Website-2025/issues"
+  },
+  "homepage": "https://github.com/edgee20/Jaltan-Website-2025#readme"
 }
